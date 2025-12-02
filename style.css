@@ -1,0 +1,49 @@
+ .title{
+        font-size: 3rem;
+        max-width: 50%;
+        height: auto;
+        margin: auto;
+        text-align: center;
+        padding: 2rem;
+        border-bottom: #00000038 1px solid;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    .link-container{
+        background-color: beige;
+        border-radius: 0.25rem;
+        padding: 0.25rem;
+    }
+
+    body{
+        background: #ffffff;
+        background: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(237, 221, 83, 1) 100%);
+    }
+
+    .recipeimg{
+        align-content: center;
+        align-items: center;
+        margin-left: 35%;
+        border: 0.2rem solid rgba(236, 220, 73, 0.801);
+        height: auto;
+        width: 450px;
+    }
+    .link{
+        font-weight: bold;
+        text-shadow: 1px 1px 2px rgba(175, 163, 53, 0.801);
+        font-size: large;
+        text-align: justify;
+        align-content: center;
+        margin-left: 50%;
+    }
+    .recipetitle{
+        margin-left: 50%;
+        margin-right: 50%;
+    }
+    .recipetitle, .recipeheader{
+        text-shadow: 1px 1px 2px rgba(175, 163, 53, 0.801);
+    }
+    p,ul,ol{
+        background-color: beige;
+        border-radius: 0.25rem;
+        padding: 1rem;
+    }
